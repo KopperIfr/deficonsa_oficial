@@ -1,3 +1,5 @@
+// Landing page
+
 import FinishedProyects from "@/components/intro/FinishedProjects";
 import Leading from "@/components/intro/Leading";
 import PaddingWrapper from "@/components/wrapper/PaddingWrapper";
